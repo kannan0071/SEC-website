@@ -1,0 +1,27 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 4em;
+  }
+  
+
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+  }
+  
+  tr:nth-child(odd) {
+    background-color: #dedddd;
+  }
+
+  .display-table {
+    margin-left: 23%;
+    margin-right: 23%;
+  }
+
+  h1{
+    font-size: 36px;
+    text-align: center;
+  }

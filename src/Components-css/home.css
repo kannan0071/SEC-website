@@ -1,0 +1,21 @@
+center {
+    color: rgb(36, 29, 29);
+    font-size: 20px;
+    padding-top: 200px;
+  }
+
+  .main {
+    background-image: url(
+        "https://www.saveetha.ac.in/images/sec/2024/sdd.jpg"
+    );
+    background-size: 1800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+  }
+  
+  h2 {
+    font-weight: 550;
+    color: rgb(36, 29, 29);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
